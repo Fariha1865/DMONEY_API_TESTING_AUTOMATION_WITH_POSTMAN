@@ -28,6 +28,19 @@
 ## prerequisites
 **You must have nodejs installed in your system**
 
+
+## API Documents
+https://documenter.getpostman.com/view/23406180/2s83KW9PHq#2aa41d27-f38b-496f-9c32-c5d4142cc0f3
+
+## Test Cases
+
+https://docs.google.com/spreadsheets/d/1KJo9rPZ93QboIRto1RLqogbpW_BRKcMu/edit?usp=sharing&ouid=113984228926483049674&rtpof=true&sd=true
+
+
+## Bug and Improvements
+
+https://docs.google.com/spreadsheets/d/1mKAzIfIB6lAlCTpPzvpCgZQNMz4gMnWaK45AjWWjbpc/edit?usp=sharing
+
 ## Output
 ![Newman_Report](https://user-images.githubusercontent.com/54511128/192147500-56d2dc6b-1c18-4af7-8c44-33516bace55d.PNG)
 
