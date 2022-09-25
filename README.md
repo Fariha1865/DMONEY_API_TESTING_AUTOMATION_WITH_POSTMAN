@@ -29,3 +29,6 @@
 **You must have nodejs installed in your system**
 
 ## Output
+![Newman_Report](https://user-images.githubusercontent.com/54511128/192147500-56d2dc6b-1c18-4af7-8c44-33516bace55d.PNG)
+
+![Newman_Requests](https://user-images.githubusercontent.com/54511128/192147515-c8ec9e1b-1483-4d14-b80f-08144d970439.png)
