@@ -30,7 +30,7 @@
 
 
 ## API Documents
-https://documenter.getpostman.com/view/23406180/2s83KW9PHq#2aa41d27-f38b-496f-9c32-c5d4142cc0f3
+https://documenter.getpostman.com/view/23406180/2s83KW9PHq
 
 ## Test Cases
 
